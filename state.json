@@ -1,12 +1,12 @@
 {
   "Tesco": {
     "on": false,
-    "checked": "2026-11-20T16:07+00:00",
+    "checked": "2026-11-21T15:20+00:00",
     "dead_notified": false
   },
   "Sainsbury's": {
     "on": false,
-    "checked": "2026-11-20T16:07+00:00",
+    "checked": "2026-11-21T15:20+00:00",
     "dead_notified": false
   }
 }
